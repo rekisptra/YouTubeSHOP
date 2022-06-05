@@ -18,7 +18,7 @@ Youtube bot for auto-like and auto-subscribe
                       >>> 	    |_|   |_|   |____/|_| |_|\___/|_|           <<<
                       >>> 	                                                <<<
                       >>> ===================================================== <<<
-                      >>> [DEV] : Mr.OneTXz (Reki Saputra)                      <<<
+                      >>> [DEV] : Mr.OneTXz (RekiXploit)                      <<<
                       >>> [GitHub] : https://www.github.com/RekiXploit          <<<
                       >>> [Version] : 12.8.3v                                   <<<
                       >>> +++++++++++++++++++++++++++++++++++++++++++++++++++++ <<<
